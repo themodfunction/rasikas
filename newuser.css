@@ -1,0 +1,56 @@
+body{
+	background-image: url('new user.png');
+	background-repeat: no-repeat;
+	background-size:100%;
+}
+h1{
+	font-family: Monaco;
+	text-align: center;
+	margin-top: 50px;
+	color:  #4d2600; 
+	font-size: 40px;
+}
+form{
+	font-family: Monaco;
+	float: center;
+	color:  #4d2600;
+	font-size:25px;
+	margin-top: 50px;
+	padding: 12px 20px;
+	margin-left: 25%;
+}
+input[type=text]{
+	width: 33%;
+	padding: 12px 20px;
+	box-sizing: border-box;
+	float: right;
+	margin-right: 36%
+}
+input[type=password]{
+	width: 33%;
+	padding: 12px 20px;
+	box-sizing: border-box;
+	float: right;
+	margin-right: 36%
+}
+input[type=int]{
+	width: 33%;
+	padding: 12px 20px;
+	box-sizing: border-box;
+	float: right;
+	margin-right: 36%
+}
+input[type=email]{
+	width: 33%;
+	padding: 12px 20px;
+	box-sizing: border-box;
+	float: right;
+	margin-right: 36%
+}
+input[type=submit]{
+	width: 67%;
+	padding: 12px 20px;
+	box-sizing: border-box;
+	background-color: #4d2600;
+	color:  #fff8cc;
+}

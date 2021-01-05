@@ -1,0 +1,30 @@
+body{
+	background-color: #fff8e2;
+	margin-left: 60px;
+	margin-right: 60px;
+}
+h3{
+	font-family: Monaco;
+	color:#fff8e2;
+	text-align: center;
+	font-size: 30px;
+	background-color: #4d2600;
+}
+div{
+	font-family: Monaco;
+	font-color: #4d2600;
+	font-size: 18px;
+	border: double;
+	border-color: #4d2600;
+	margin-bottom: 10px;
+}
+
+input[type=radio]{
+	border-radius: 50%
+}
+input[type=submit]{
+	width:100%;
+	box-sizing: border-box;
+	background-color: #4d2600;
+	color:  #fff8e2;
+}

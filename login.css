@@ -1,0 +1,34 @@
+body{
+	background-image: url('new user.png');
+	background-repeat: no-repeat;
+	background-size:100%;
+}
+h1{
+	font-family: Monaco;
+	text-align: center;
+	margin-top: 50px;
+	color:  #4d2600; 
+	font-size: 40px;
+}
+table{
+	font-family: Monaco;
+	border-collapse: collapse;
+	font-color:#4d2600;
+	font-size: 20px;
+	margin-top: 50px;
+	float: center;
+}
+input[type=text]{
+	width: 100%;
+	box-sizing: border-box;
+}
+input[type=password]{
+	width: 100%;
+	box-sizing: border-box;
+}
+input[type=submit]{
+	width:100%;
+	box-sizing: border-box;
+	background-color: #4d2600;
+	color:  #fff8cc;	
+}
